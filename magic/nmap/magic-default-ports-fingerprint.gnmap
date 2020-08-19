@@ -1,0 +1,4 @@
+# Nmap 7.80SVN scan initiated Wed Aug 19 10:15:18 2020 as: nmap -sS -A -Pn -oA magic-default-ports-fingerprint 10.10.10.185
+Host: 10.10.10.185 ()	Status: Up
+Host: 10.10.10.185 ()	Ports: 22/filtered/tcp//ssh///, 80/filtered/tcp//http///	Ignored State: closed (998)
+# Nmap done at Wed Aug 19 10:15:22 2020 -- 1 IP address (1 host up) scanned in 3.87 seconds

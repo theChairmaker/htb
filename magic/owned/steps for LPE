@@ -1,0 +1,5 @@
+sysinfo has relative paths, e.g. for fdisk
+created fdisk on /tmp/user
+python reverse shell, chmod 755 it, set PATH to /tmp/user
+execute sysinfo while listening with nc. 
+0Wn3d!

